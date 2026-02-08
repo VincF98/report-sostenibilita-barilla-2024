@@ -5,7 +5,7 @@ Project Work universitario, dedicata alla presentazione del Report di
 Sostenibilità Barilla 2024.
 
 La pagina ha una funzione informativa e di accompagnamento al documento
-ufficiale, con l’obiettivo di rendere più immediato l’accesso ai contenuti
+ufficiale (report completo superiore alle dimensioni di upload massime, download per gli highlights), con l’obiettivo di rendere più immediato l’accesso ai contenuti
 principali del report.
 
 ---
