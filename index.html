@@ -61,20 +61,16 @@
   </footer>
 
   <script>
-    document.addEventListener('DOMContentLoaded', function () {
-    const toggle = document.querySelector('.dropdown-toggle');
-    const dropdown = document.querySelector('.dropdown');
+  const toggle = document.querySelector('.dropdown-toggle');
+  const dropdown = document.querySelector('.dropdown');
 
-    if (!toggle || !dropdown) return;
+  toggle.addEventListener('click', function (e) {
+    e.stopPropagation();
+    dropdown.classList.toggle('open');
+  });
 
-    toggle.addEventListener('click', function (e) {
-      e.stopPropagation();
-      dropdown.classList.toggle('open');
-    });
-
-    document.addEventListener('click', function () {
-      dropdown.classList.remove('open');
-    });
+  document.addEventListener('click', function () {
+    dropdown.classList.remove('open');
   });
   </script>
 
