@@ -22,7 +22,7 @@ L’obiettivo è realizzare una **landing page informativa** che:
 
 ---
 
-## Tecnologie utilizzate
+Tecnologie utilizzate
 - HTML5
 - CSS3
 - JavaScript (per interazioni dinamiche)
@@ -30,6 +30,6 @@ L’obiettivo è realizzare una **landing page informativa** che:
 
 ---
 
-## Autore
+Autore
 **Vincenzo Fauci**  
 
