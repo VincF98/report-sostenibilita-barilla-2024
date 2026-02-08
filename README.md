@@ -8,7 +8,7 @@ La pagina ha una funzione informativa e di accompagnamento al documento
 ufficiale, con l’obiettivo di rendere più immediato l’accesso ai contenuti
 principali del report.
 
---
+---
 
 ## Contesto del lavoro
 Il progetto è stato sviluppato nell’ambito del Project Work per
