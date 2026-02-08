@@ -61,8 +61,11 @@
   </footer>
 
   <script>
+    document.addEventListener('DOMContentLoaded', function () {
     const toggle = document.querySelector('.dropdown-toggle');
     const dropdown = document.querySelector('.dropdown');
+
+    if (!toggle || !dropdown) return;
 
     toggle.addEventListener('click', function (e) {
       e.stopPropagation();
@@ -72,6 +75,7 @@
     document.addEventListener('click', function () {
       dropdown.classList.remove('open');
     });
+  });
   </script>
 
 </body>
